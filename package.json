@@ -58,6 +58,7 @@
     "@feathersjs/socketio": "^5.0.33",
     "@feathersjs/transport-commons": "^5.0.33",
     "compression": "^1.8.0",
+    "dotenv": "^16.5.0",
     "mongodb": "^6.13.1",
     "twilio": "^5.5.2",
     "winston": "^3.17.0"
